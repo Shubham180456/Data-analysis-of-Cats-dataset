@@ -32,7 +32,7 @@ Shelter Creation: Develop new shelters and manage them effectively, based on the
 
 Weight Tracking: Monitor and track the weight of cats across different age groups to ensure healthy growth.
 
-3. Cats Adoption Planning
+2. Cats Adoption Planning
    
 Categorize Cats by Age: Use age data from the dataset to organize cats into age groups for more effective adoption planning.
 
@@ -40,8 +40,8 @@ Selection of Breed: Analyze breed data to match cats with potential adopters bas
 
 Selection by Color: Use the dataset’s color attributes to further categorize cats for adoption preferences.
 
-5. Breeding Program Management
-6. 
+3. Breeding Program Management
+   
 Mating Pair Identification: Use data to identify suitable mating pairs to support healthy breeding practices.
 
 Kitten Growth Monitoring: Track the growth and development of kittens using the dataset to ensure they are healthy.
